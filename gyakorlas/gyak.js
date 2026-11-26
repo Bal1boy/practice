@@ -1,1 +1,3 @@
-console.log("blabla");
+let x = [];
+
+x.push("string");
